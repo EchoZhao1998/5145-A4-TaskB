@@ -1,6 +1,6 @@
 # Task B — Uncovering Hidden Biases in Large Language Models
 
-**Echo Zhao — ezha0053 — FIT5145 Assignment 4**
+**Wanting Zhao — 35507071 — FIT5145 Assignment 4**
 
 ---
 
